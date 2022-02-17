@@ -1,0 +1,4 @@
+A1|Lays|1.50|Chip
+B1|Coke|1.25|Drink
+C1|Big League Chew|2.00|Gum
+D1|Snickers|0.85|Candy

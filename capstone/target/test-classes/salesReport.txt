@@ -1,0 +1,6 @@
+Lays|0
+Coke|0
+Big League Chew|0
+Snickers|1
+
+Total Sales: $0.85
